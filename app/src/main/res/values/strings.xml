@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppAwake</string>
+    <string name="accessibility_service_description">AppAwake Accessibility Service target apps ko monitor karti hai taake wo idle na hon aur unki screen awake rahe.</string>
+</resources>
